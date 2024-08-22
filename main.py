@@ -4,7 +4,7 @@ import feedparser
 import telebot
 
 
-chat_id = "-4587387768"
+chat_id = "#insert your chat id "
 bot_token = "#insert your bot token "
 
 
