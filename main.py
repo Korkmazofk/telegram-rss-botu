@@ -45,7 +45,7 @@ def get_and_send_news(chat_id):
 # Haberleri düzenli olarak kontrol etme
 while True:
     get_and_send_news(chat_id)
-    time.sleep(30)  # 60 saniyede bir uykuya alır .
+    time.sleep(30)  # 30 dakikada bir uykuya alır .
 
 # Botu başlat
 telebot.polling()
