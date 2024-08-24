@@ -5,7 +5,7 @@ import telebot
 from Crypto.Hash import SHA256
 
 chat_id = "#insert your chat id "
-bot_token = "insert your bot token "
+bot_token = "#insert your bot token "
 # Telegram botunu başlat
 bot = telebot.TeleBot(bot_token)
 
